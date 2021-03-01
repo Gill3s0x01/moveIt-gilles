@@ -3,12 +3,13 @@ import { CountdownProvider } from '../../contexts/CountdownContext';
 
 import Sidebar from '../../components/Sidebar';
 import ExperienceBar from '../../components/ExperienceBar';
-import Profile from '../../components/Profile';
+
 import CompletedChallenges from '../../components/CompletedChallenges';
 import Countdown from '../../components/Countdown';
 import ChallengeBox from '../../components/ChallengeBox';
 
 import { Container } from './styles';
+import Profile from '../../components/Profile';
 
 const HomePage = () => (
   <Container className="container">
