@@ -2,7 +2,7 @@
    <img src="./public/logo-full.svg" alt="Move.it" width="300"/>
 </p>
 <h2 align-itens="center">
-  Move It - Acesse <a href="em construção">aqui</a>
+  Move It - Acesse <a href="https://move-it-gilles-gilles30.vercel.app/">aqui</a>
 </h2>
 
 <h3 align-itens="center">
